@@ -13,8 +13,6 @@ Skills: Frontend / Backend / JavaScript / C++ / C / R / C# / MYSQL / Node / Expr
 - ⚡ Fun fact: I'm a really good when it comes to side hustles 😎 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sherifrax)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sherifrax/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/sherifrax/)  
-
 
 
 🚀 Driven Computer Science student passionate about web development. I leverage strong problem-solving skills and proficiency in languages like JavaScript, Python, and Java to build impactful applications. While my experience spans across various areas of CS, I'm particularly interested in the creative and user-focused world of web development.
@@ -28,6 +26,8 @@ Key Achievements:
 Excited to combine my technical skills with a passion for user experience to contribute to the future of web development!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sherifrax)](https://github.com/anuraghazra/github-readme-stats)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sherifrax)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sherifrax//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/sherifrax//)  
 
 
 
