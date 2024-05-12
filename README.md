@@ -13,10 +13,6 @@ Skills: Frontend / Backend / JavaScript / C++ / C / R / C# / MYSQL / Node / Expr
 - ⚡ Fun fact: I'm a really good when it comes to side hustles 😎 
 
 
-
-
-🚀 Driven Computer Science student passionate about web development. I leverage strong problem-solving skills and proficiency in languages like JavaScript, Python, and Java to build impactful applications. While my experience spans across various areas of CS, I'm particularly interested in the creative and user-focused world of web development.
-
 Key Achievements:
 
 1️⃣ 🔵 Top Tutor Badge (Top 1%) at Studypool: Led a team of tutors to expand educational reach.
