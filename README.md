@@ -33,9 +33,9 @@ Skills and experience:
 
 Key Achievements:
 
-###1️⃣ 🔵 Top Tutor Badge (Top 1%) at Studypool: Led a team of tutors to expand educational reach.
-###2️⃣ 🔴 Full-Stack Web App Development: Built "Econible" using cutting-edge technologies (Flutter, Python, Machine Learning) for finance management.
-###3️⃣ 🟢 AI-based Cancer Detection System: Developed an image processing system for early cancer detection.
+1️⃣ 🔵 Top Tutor Badge (Top 1%) at Studypool: Led a team of tutors to expand educational reach.
+2️⃣ 🔴 Full-Stack Web App Development: Built "Econible" using cutting-edge technologies (Flutter, Python, Machine Learning) for finance management.
+3️⃣ 🟢 AI-based Cancer Detection System: Developed an image processing system for early cancer detection.
 
 Excited to combine my technical skills with a passion for user experience to contribute to the future of web development!
 
