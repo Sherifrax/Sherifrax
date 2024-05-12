@@ -39,7 +39,6 @@ Key Achievements:
 
 Excited to combine my technical skills with a passion for user experience to contribute to the future of web development!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sherifrax)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sherifrax)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sherifrax//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/sherifrax//)  
 
