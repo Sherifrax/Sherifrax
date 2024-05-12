@@ -13,7 +13,6 @@ Excited to combine my technical skills with a passion for user experience to con
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sherifrax)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Hi there 👋, Abdalrahman
 #### Full-Stack Developer
 ![Full-Stack Developer](https://media.licdn.com/dms/image/D4D16AQEykIxmKVmxQw/profile-displaybackgroundimage-shrink_350_1400/0/1715452789972?e=1721260800&v=beta&t=2gzDKvF70wLX6THpTO7LTxdinBwv13NtUB4N6GRwZJA)
 
